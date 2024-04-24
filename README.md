@@ -14,7 +14,7 @@ Note: Make sure to invite your bot with manage and create expressions
 Go to .env file and change BOT_TOKEN to your token
 
 ### Running
-Launch your running these commands
+Launch with these commands
 ```
 npm install
 npm fund
