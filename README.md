@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 [Go to discord developer portal](https://discord.com/developers/applications)
 
-Follow these steps too add your bot to your server: https://discordpy.readthedocs.io/en/stable/discord.html
+Follow these steps to add your bot to your server: https://discordpy.readthedocs.io/en/stable/discord.html
 
 Note: Make sure to invite your bot with manage and create expressions
 
