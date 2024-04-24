@@ -2,10 +2,8 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import invalidImage from '@src/images/404.gif';
-import unlistedImage from '@src/images/unlisted.gif';
 import Popup from "../../components/Popup";
 import postData from "@src/utils/helpers/postData";
-import Head from "next/head";
 
 interface EmoteData {
   url: string;
