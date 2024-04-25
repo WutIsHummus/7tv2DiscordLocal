@@ -14,7 +14,7 @@ Note: Make sure to invite your bot with manage and create expressions
 
 ### Adding bot token to .env
 [Get your bot token](https://discordgsm.com/guide/how-to-get-a-discord-bot-token)
-Go to .env file and change BOT_TOKEN to your token
+Go to .env file and change BOT_TOKEN to your token and GUILD_ID to server id
 
 ### Running
 Launch with these commands
