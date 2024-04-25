@@ -6,7 +6,7 @@ import postData from '@src/utils/helpers/postData';
 import { headers } from 'next/headers';
 
 
-const { BOT_TOKEN } = process.env
+const { BOT_TOKEN, GUILD_ID } = process.env
 
 async function fetchAndCheckImage(url: string, type: string) {
     const fileExtension = type === 'png' ? 'png' : 'gif'; // Determine the file extension based on the type variable
@@ -42,7 +42,7 @@ export async function POST(req: NextRequest) {
 
 
         // Set up payload
-        const DiscordApi = `https://discord.com/api/v10/guilds/1041002194406739979/emojis`;
+        const DiscordApi = `https://discord.com/api/v10/guilds/${GUILD_ID}/emojis`;
         // Post Emote data to discord
         const response = await postData(DiscordApi, {
             "name": name,
