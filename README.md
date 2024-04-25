@@ -1,5 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWutIsHummus%2F7tv2DiscordLocal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![ezgif-6-d424b966b2](https://github.com/WutIsHummus/7tv2DiscordLocal/assets/65522410/5dfd6737-5e61-412c-9124-d15406fd1256)
+![ezgif-6-994a99b909](https://github.com/WutIsHummus/7tv2DiscordLocal/assets/65522410/d83f057f-413b-4a06-971d-6cb518149a74)
+
 ## Getting Started
 [Go to discord developer portal](https://discord.com/developers/applications)
 
